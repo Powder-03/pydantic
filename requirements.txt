@@ -1,0 +1,3 @@
+pydantic
+
+# pydantic v2 written in rust 
